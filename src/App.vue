@@ -5,6 +5,9 @@ export default {
       productos:[],
     }
   },
+  async function name(params) {
+    
+  }
 },
 
 </script>
